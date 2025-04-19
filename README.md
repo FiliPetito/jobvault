@@ -50,3 +50,5 @@ A backend application for managing job portals, enabling companies to post offer
   - Interactive Swagger UI at `/swagger-ui.html`.  
 
 ---
+
+
